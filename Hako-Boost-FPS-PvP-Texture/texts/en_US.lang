@@ -1,0 +1,12 @@
+enchantment.arrowDamage=POW	#
+enchantment.arrowInfinite=INF	#
+enchantment.damage.all=SH	#
+enchantment.digging=EF	#
+enchantment.durability=UnBrk	#
+enchantment.fire=Fire	#
+enchantment.knockback=KB	#
+enchantment.protect.all=PRT	#
+enchantment.protect.explosion=BlastPRT	#
+enchantment.protect.fall=FALL	#
+enchantment.protect.fire=FirePRT	#
+enchantment.protect.projectile=ProjectilePRT	#
